@@ -1,0 +1,2 @@
+Home Expense Tracker
+This application helps to record and track your day to day home expenses
